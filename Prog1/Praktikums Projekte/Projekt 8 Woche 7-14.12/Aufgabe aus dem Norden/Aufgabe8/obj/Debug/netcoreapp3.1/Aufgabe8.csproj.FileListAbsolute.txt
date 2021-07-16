@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\bin\Debug\netcoreapp3.1\Aufgabe8.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\bin\Debug\netcoreapp3.1\Aufgabe8.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\bin\Debug\netcoreapp3.1\Aufgabe8.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\bin\Debug\netcoreapp3.1\Aufgabe8.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\bin\Debug\netcoreapp3.1\Aufgabe8.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\bin\Debug\netcoreapp3.1\Aufgabe8.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\obj\Debug\netcoreapp3.1\Aufgabe8.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\obj\Debug\netcoreapp3.1\Aufgabe8.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\obj\Debug\netcoreapp3.1\Aufgabe8.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\obj\Debug\netcoreapp3.1\Aufgabe8.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\obj\Debug\netcoreapp3.1\Aufgabe8.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\obj\Debug\netcoreapp3.1\Aufgabe8.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 8Woche 7-14.12\Aufgabe aus dem Norden\Aufgabe8\obj\Debug\netcoreapp3.1\Aufgabe8.genruntimeconfig.cache
