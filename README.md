@@ -1,1 +1,1 @@
-all the school projects and exercises
+#All the school projects and exercises
