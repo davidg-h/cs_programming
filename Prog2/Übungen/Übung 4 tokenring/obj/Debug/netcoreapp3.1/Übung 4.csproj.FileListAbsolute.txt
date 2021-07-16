@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\bin\Debug\netcoreapp3.1\Übung 4.exe
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\bin\Debug\netcoreapp3.1\Übung 4.deps.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\bin\Debug\netcoreapp3.1\Übung 4.runtimeconfig.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\bin\Debug\netcoreapp3.1\Übung 4.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\bin\Debug\netcoreapp3.1\Übung 4.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\bin\Debug\netcoreapp3.1\Übung 4.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\obj\Debug\netcoreapp3.1\Übung 4.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\obj\Debug\netcoreapp3.1\Übung 4.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\obj\Debug\netcoreapp3.1\Übung 4.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\obj\Debug\netcoreapp3.1\Übung 4.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\obj\Debug\netcoreapp3.1\Übung 4.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\obj\Debug\netcoreapp3.1\Übung 4.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 4\obj\Debug\netcoreapp3.1\Übung 4.genruntimeconfig.cache

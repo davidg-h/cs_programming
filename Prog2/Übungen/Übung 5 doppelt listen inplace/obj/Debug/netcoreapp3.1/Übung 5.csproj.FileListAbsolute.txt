@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\bin\Debug\netcoreapp3.1\Übung 5.exe
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\bin\Debug\netcoreapp3.1\Übung 5.deps.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\bin\Debug\netcoreapp3.1\Übung 5.runtimeconfig.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\bin\Debug\netcoreapp3.1\Übung 5.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\bin\Debug\netcoreapp3.1\Übung 5.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\bin\Debug\netcoreapp3.1\Übung 5.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\obj\Debug\netcoreapp3.1\Übung 5.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\obj\Debug\netcoreapp3.1\Übung 5.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\obj\Debug\netcoreapp3.1\Übung 5.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\obj\Debug\netcoreapp3.1\Übung 5.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\obj\Debug\netcoreapp3.1\Übung 5.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\obj\Debug\netcoreapp3.1\Übung 5.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 5 doppelt listen inplace\obj\Debug\netcoreapp3.1\Übung 5.genruntimeconfig.cache

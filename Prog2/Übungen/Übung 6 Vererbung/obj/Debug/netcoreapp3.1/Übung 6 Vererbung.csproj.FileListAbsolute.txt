@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\bin\Debug\netcoreapp3.1\Übung 6 Vererbung.exe
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\bin\Debug\netcoreapp3.1\Übung 6 Vererbung.deps.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\bin\Debug\netcoreapp3.1\Übung 6 Vererbung.runtimeconfig.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\bin\Debug\netcoreapp3.1\Übung 6 Vererbung.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\bin\Debug\netcoreapp3.1\Übung 6 Vererbung.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\bin\Debug\netcoreapp3.1\Übung 6 Vererbung.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\obj\Debug\netcoreapp3.1\Übung 6 Vererbung.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\obj\Debug\netcoreapp3.1\Übung 6 Vererbung.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\obj\Debug\netcoreapp3.1\Übung 6 Vererbung.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\obj\Debug\netcoreapp3.1\Übung 6 Vererbung.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\obj\Debug\netcoreapp3.1\Übung 6 Vererbung.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\obj\Debug\netcoreapp3.1\Übung 6 Vererbung.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 6 Vererbung\obj\Debug\netcoreapp3.1\Übung 6 Vererbung.genruntimeconfig.cache
