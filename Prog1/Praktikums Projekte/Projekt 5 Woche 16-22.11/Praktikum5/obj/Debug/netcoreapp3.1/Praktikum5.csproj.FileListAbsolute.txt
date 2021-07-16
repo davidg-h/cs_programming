@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Praktikums Projekte\Projekt 5Woche 16-22.11\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.genruntimeconfig.cache
