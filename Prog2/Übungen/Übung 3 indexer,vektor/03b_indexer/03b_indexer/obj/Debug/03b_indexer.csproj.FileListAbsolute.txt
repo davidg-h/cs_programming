@@ -1,7 +1,0 @@
-C:\Users\David\Downloads\03_prog2_beispiele\03b_indexer\03b_indexer\bin\Debug\03b_indexer.exe.config
-C:\Users\David\Downloads\03_prog2_beispiele\03b_indexer\03b_indexer\bin\Debug\03b_indexer.exe
-C:\Users\David\Downloads\03_prog2_beispiele\03b_indexer\03b_indexer\bin\Debug\03b_indexer.pdb
-C:\Users\David\Downloads\03_prog2_beispiele\03b_indexer\03b_indexer\obj\Debug\03b_indexer.csprojAssemblyReference.cache
-C:\Users\David\Downloads\03_prog2_beispiele\03b_indexer\03b_indexer\obj\Debug\03b_indexer.csproj.CoreCompileInputs.cache
-C:\Users\David\Downloads\03_prog2_beispiele\03b_indexer\03b_indexer\obj\Debug\03b_indexer.exe
-C:\Users\David\Downloads\03_prog2_beispiele\03b_indexer\03b_indexer\obj\Debug\03b_indexer.pdb
