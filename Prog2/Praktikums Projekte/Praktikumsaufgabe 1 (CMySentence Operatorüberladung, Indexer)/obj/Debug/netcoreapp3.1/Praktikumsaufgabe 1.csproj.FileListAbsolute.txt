@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\bin\Debug\netcoreapp3.1\Praktikumsaufgabe 1.exe
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\bin\Debug\netcoreapp3.1\Praktikumsaufgabe 1.deps.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\bin\Debug\netcoreapp3.1\Praktikumsaufgabe 1.runtimeconfig.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\bin\Debug\netcoreapp3.1\Praktikumsaufgabe 1.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\bin\Debug\netcoreapp3.1\Praktikumsaufgabe 1.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\bin\Debug\netcoreapp3.1\Praktikumsaufgabe 1.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\obj\Debug\netcoreapp3.1\Praktikumsaufgabe 1.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\obj\Debug\netcoreapp3.1\Praktikumsaufgabe 1.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\obj\Debug\netcoreapp3.1\Praktikumsaufgabe 1.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\obj\Debug\netcoreapp3.1\Praktikumsaufgabe 1.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\obj\Debug\netcoreapp3.1\Praktikumsaufgabe 1.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\obj\Debug\netcoreapp3.1\Praktikumsaufgabe 1.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 1\obj\Debug\netcoreapp3.1\Praktikumsaufgabe 1.genruntimeconfig.cache

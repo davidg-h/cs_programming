@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktikumsaufgabe 2 (Verkettete Prioritätsliste)", "Praktikumsaufgabe 2 (Verkettete Prioritätsliste).csproj", "{B6BCE2CA-6B1A-4F73-827E-D876A29DC9E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6BCE2CA-6B1A-4F73-827E-D876A29DC9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BCE2CA-6B1A-4F73-827E-D876A29DC9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BCE2CA-6B1A-4F73-827E-D876A29DC9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BCE2CA-6B1A-4F73-827E-D876A29DC9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42B58F39-AA74-4BDD-8477-5AE85B5647D8}
+	EndGlobalSection
+EndGlobal
