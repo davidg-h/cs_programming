@@ -1,0 +1,39 @@
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.genruntimeconfig.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 13-25.10\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.genruntimeconfig.cache
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.exe
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.deps.json
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.runtimeconfig.json
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.runtimeconfig.dev.json
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.dll
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\bin\Debug\netcoreapp3.1\Scharfe Küche.pdb
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.AssemblyInfo.cs
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.dll
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.pdb
+C:\Users\David\Desktop\Scharfe Küche\Scharfe Küche\obj\Debug\netcoreapp3.1\Scharfe Küche.genruntimeconfig.cache

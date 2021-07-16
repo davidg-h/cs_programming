@@ -1,0 +1,39 @@
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\bin\Debug\netcoreapp3.1\Schleifen2.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\bin\Debug\netcoreapp3.1\Schleifen2.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\bin\Debug\netcoreapp3.1\Schleifen2.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\bin\Debug\netcoreapp3.1\Schleifen2.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\bin\Debug\netcoreapp3.1\Schleifen2.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\bin\Debug\netcoreapp3.1\Schleifen2.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\obj\Debug\netcoreapp3.1\Schleifen2.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\obj\Debug\netcoreapp3.1\Schleifen2.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\obj\Debug\netcoreapp3.1\Schleifen2.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\obj\Debug\netcoreapp3.1\Schleifen2.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\obj\Debug\netcoreapp3.1\Schleifen2.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\obj\Debug\netcoreapp3.1\Schleifen2.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen2\obj\Debug\netcoreapp3.1\Schleifen2.genruntimeconfig.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\bin\Debug\netcoreapp3.1\Schleifen2.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\bin\Debug\netcoreapp3.1\Schleifen2.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\bin\Debug\netcoreapp3.1\Schleifen2.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\bin\Debug\netcoreapp3.1\Schleifen2.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\bin\Debug\netcoreapp3.1\Schleifen2.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\bin\Debug\netcoreapp3.1\Schleifen2.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\obj\Debug\netcoreapp3.1\Schleifen2.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\obj\Debug\netcoreapp3.1\Schleifen2.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\obj\Debug\netcoreapp3.1\Schleifen2.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\obj\Debug\netcoreapp3.1\Schleifen2.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\obj\Debug\netcoreapp3.1\Schleifen2.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\obj\Debug\netcoreapp3.1\Schleifen2.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen\obj\Debug\netcoreapp3.1\Schleifen2.genruntimeconfig.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\bin\Debug\netcoreapp3.1\Schleifen2.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\bin\Debug\netcoreapp3.1\Schleifen2.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\bin\Debug\netcoreapp3.1\Schleifen2.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\bin\Debug\netcoreapp3.1\Schleifen2.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\bin\Debug\netcoreapp3.1\Schleifen2.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\bin\Debug\netcoreapp3.1\Schleifen2.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\obj\Debug\netcoreapp3.1\Schleifen2.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\obj\Debug\netcoreapp3.1\Schleifen2.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\obj\Debug\netcoreapp3.1\Schleifen2.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\obj\Debug\netcoreapp3.1\Schleifen2.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\obj\Debug\netcoreapp3.1\Schleifen2.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\obj\Debug\netcoreapp3.1\Schleifen2.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Projekt Woche 26-01.11\Schleifen Praktikum Woche 2\obj\Debug\netcoreapp3.1\Schleifen2.genruntimeconfig.cache
