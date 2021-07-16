@@ -1,0 +1,32 @@
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.exe
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.deps.json
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.runtimeconfig.json
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.runtimeconfig.dev.json
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.dll
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\bin\Debug\net5.0\ref\Übung 2.dll
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.pdb
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.csprojAssemblyReference.cache
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.AssemblyInfoInputs.cache
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.AssemblyInfo.cs
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.csproj.CoreCompileInputs.cache
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.dll
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\obj\Debug\net5.0\ref\Übung 2.dll
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.pdb
+C:\Users\Zimmer\source\repos\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.genruntimeconfig.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.exe
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.deps.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.runtimeconfig.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\bin\Debug\net5.0\ref\Übung 2.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\bin\Debug\net5.0\Übung 2.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\obj\Debug\net5.0\ref\Übung 2.dll
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Prog 2 Übung\Übung 2\Übung 2\obj\Debug\net5.0\Übung 2.genruntimeconfig.cache
