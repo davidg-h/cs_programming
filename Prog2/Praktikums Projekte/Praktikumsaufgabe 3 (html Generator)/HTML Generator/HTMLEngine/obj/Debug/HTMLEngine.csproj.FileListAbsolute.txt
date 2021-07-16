@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 3 (html Generator)\p2021ss_08_interfaces-vorimplementierung\HTMLEngine\bin\Debug\HTMLEngine.exe.config
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 3 (html Generator)\p2021ss_08_interfaces-vorimplementierung\HTMLEngine\bin\Debug\HTMLEngine.exe
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 3 (html Generator)\p2021ss_08_interfaces-vorimplementierung\HTMLEngine\bin\Debug\HTMLEngine.pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 3 (html Generator)\p2021ss_08_interfaces-vorimplementierung\HTMLEngine\obj\Debug\HTMLEngine.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 3 (html Generator)\p2021ss_08_interfaces-vorimplementierung\HTMLEngine\obj\Debug\HTMLEngine.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 3 (html Generator)\p2021ss_08_interfaces-vorimplementierung\HTMLEngine\obj\Debug\HTMLEngine.exe
+C:\Users\David\Desktop\Schule TH\Min Semester 2\Prog 2\Praktikum\Praktikumsaufgabe 3 (html Generator)\p2021ss_08_interfaces-vorimplementierung\HTMLEngine\obj\Debug\HTMLEngine.pdb
