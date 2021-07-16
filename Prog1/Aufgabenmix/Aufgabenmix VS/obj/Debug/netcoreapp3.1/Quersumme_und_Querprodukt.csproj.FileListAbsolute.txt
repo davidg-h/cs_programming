@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\bin\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\bin\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\bin\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\bin\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\bin\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\bin\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\obj\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\obj\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\obj\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\obj\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\obj\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Aufgabenmix VS\obj\Debug\netcoreapp3.1\Quersumme_und_Querprodukt.genruntimeconfig.cache

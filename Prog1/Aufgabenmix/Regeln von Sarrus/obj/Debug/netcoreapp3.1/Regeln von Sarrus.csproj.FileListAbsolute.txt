@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\bin\Debug\netcoreapp3.1\Regeln von Sarrus.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\bin\Debug\netcoreapp3.1\Regeln von Sarrus.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\bin\Debug\netcoreapp3.1\Regeln von Sarrus.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\bin\Debug\netcoreapp3.1\Regeln von Sarrus.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\bin\Debug\netcoreapp3.1\Regeln von Sarrus.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\bin\Debug\netcoreapp3.1\Regeln von Sarrus.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\obj\Debug\netcoreapp3.1\Regeln von Sarrus.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\obj\Debug\netcoreapp3.1\Regeln von Sarrus.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\obj\Debug\netcoreapp3.1\Regeln von Sarrus.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\obj\Debug\netcoreapp3.1\Regeln von Sarrus.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\obj\Debug\netcoreapp3.1\Regeln von Sarrus.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\obj\Debug\netcoreapp3.1\Regeln von Sarrus.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\Aufgabenmix\Regeln von Sarrus\obj\Debug\netcoreapp3.1\Regeln von Sarrus.genruntimeconfig.cache
