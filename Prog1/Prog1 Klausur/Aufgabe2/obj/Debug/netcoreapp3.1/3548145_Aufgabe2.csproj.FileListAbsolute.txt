@@ -1,0 +1,39 @@
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.exe
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.deps.json
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.runtimeconfig.json
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.runtimeconfig.dev.json
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.dll
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.pdb
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.AssemblyInfo.cs
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.dll
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.pdb
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.genruntimeconfig.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.genruntimeconfig.cache
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.exe
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.deps.json
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.dll
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\bin\Debug\netcoreapp3.1\3548145_Aufgabe2.pdb
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.dll
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.pdb
+C:\Users\David\Desktop\Schule\Min Semester 1\Prog1 Projekte\Prog 1 Klausur\Aufgabe2\3548145_Aufgabe2\obj\Debug\netcoreapp3.1\3548145_Aufgabe2.genruntimeconfig.cache
