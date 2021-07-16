@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\bin\Debug\netcoreapp3.1\WetterVerarbeiten.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\bin\Debug\netcoreapp3.1\WetterVerarbeiten.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\bin\Debug\netcoreapp3.1\WetterVerarbeiten.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\bin\Debug\netcoreapp3.1\WetterVerarbeiten.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\bin\Debug\netcoreapp3.1\WetterVerarbeiten.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\bin\Debug\netcoreapp3.1\WetterVerarbeiten.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\obj\Debug\netcoreapp3.1\WetterVerarbeiten.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\obj\Debug\netcoreapp3.1\WetterVerarbeiten.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\obj\Debug\netcoreapp3.1\WetterVerarbeiten.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\obj\Debug\netcoreapp3.1\WetterVerarbeiten.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\obj\Debug\netcoreapp3.1\WetterVerarbeiten.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\obj\Debug\netcoreapp3.1\WetterVerarbeiten.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Übungen\DateiLesen\WetterVerarbeiten\obj\Debug\netcoreapp3.1\WetterVerarbeiten.genruntimeconfig.cache
