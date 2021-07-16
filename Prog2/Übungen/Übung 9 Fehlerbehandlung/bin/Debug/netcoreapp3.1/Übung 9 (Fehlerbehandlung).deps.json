@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Übung 9 (Fehlerbehandlung)/1.0.0": {
+        "runtime": {
+          "Übung 9 (Fehlerbehandlung).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Übung 9 (Fehlerbehandlung)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
