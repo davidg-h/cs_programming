@@ -1,0 +1,26 @@
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.exe
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.deps.json
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.runtimeconfig.json
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.runtimeconfig.dev.json
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.dll
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.pdb
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.AssemblyInfo.cs
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.dll
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.pdb
+C:\Users\David\Desktop\Prog 1 Klausur\Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.genruntimeconfig.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.exe
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.deps.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.runtimeconfig.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\bin\Debug\netcoreapp3.1\Aufgabe5.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.AssemblyInfo.cs
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.dll
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.pdb
+C:\Users\David\Desktop\Schule\Prog1 Projekte\Prog 1 Klausur\3548145_Aufgabe5\obj\Debug\netcoreapp3.1\Aufgabe5.genruntimeconfig.cache
