@@ -1,1 +1,1 @@
-projects from Sommersemester 2021
+## Assigments for "Programmieren 2"
