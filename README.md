@@ -1,1 +1,1 @@
-# All the school projects, exercises and assignments (language: **C#**)
+# Collection of school projects, exercises and assignments (language: **C#**)
