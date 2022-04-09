@@ -1,0 +1,15 @@
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\bin\Debug\Aufgabe1  (RoutedEvents).exe.config
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\bin\Debug\Aufgabe1  (RoutedEvents).exe
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\bin\Debug\Aufgabe1  (RoutedEvents).pdb
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\Aufgabe1  (RoutedEvents).csproj.AssemblyReference.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\MainWindow.g.cs
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\App.g.cs
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\Aufgabe1  (RoutedEvents)_MarkupCompile.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\Aufgabe1  (RoutedEvents)_MarkupCompile.lref
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\MainWindow.baml
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\Aufgabe1  (RoutedEvents).g.resources
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\Aufgabe1___RoutedEvents_.Properties.Resources.resources
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\Aufgabe1  (RoutedEvents).csproj.GenerateResource.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\Aufgabe1  (RoutedEvents).csproj.CoreCompileInputs.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\Aufgabe1  (RoutedEvents).exe
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB7 (RoutedEvents Style)\Aufgabe1  (RoutedEvents)\Aufgabe1  (RoutedEvents)\obj\Debug\Aufgabe1  (RoutedEvents).pdb

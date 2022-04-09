@@ -1,0 +1,35 @@
+﻿<Window x:Class="_1._2__Animation_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1._2__Animation_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Ellipse Name="myEllipse" Fill="#FF0805F5" HorizontalAlignment="Left" Height="100" Margin="325,146,0,0" Stroke="Black" VerticalAlignment="Top" Width="100" >
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <TranslateTransform x:Name="ellipseTrans"/>
+                    <SkewTransform x:Name="ellipseSkew" />
+                    <RotateTransform x:Name="ellipseRot"/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+            <Ellipse.Triggers>
+                <EventTrigger RoutedEvent="Mouse.MouseDown" SourceName="myEllipse">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetName="ellipseTrans" Storyboard.TargetProperty="Y" From="0" To="-50" Duration="0:0:5" BeginTime="0:0:0"/>
+                                <DoubleAnimation Storyboard.TargetName="ellipseSkew" Storyboard.TargetProperty="AngleX" From="0" To="10" BeginTime="0:0:2" Duration="0:0:5"/>
+                                <DoubleAnimation Storyboard.TargetName="ellipseSkew" Storyboard.TargetProperty="AngleY" From="0" To="40" BeginTime="0:0:2" Duration="0:0:5"/>
+                                <DoubleAnimation Storyboard.TargetName="ellipseRot" Storyboard.TargetProperty="Angle" From="0" To="360" BeginTime="0:0:10" Duration="0:0:2" RepeatBehavior="Forever"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Ellipse.Triggers>
+        </Ellipse>
+
+    </Grid>
+</Window>

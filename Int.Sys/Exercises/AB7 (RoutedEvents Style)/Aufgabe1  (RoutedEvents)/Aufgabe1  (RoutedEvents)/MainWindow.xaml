@@ -1,0 +1,14 @@
+﻿<Window x:Class="Aufgabe1___RoutedEvents_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aufgabe1___RoutedEvents_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        MouseLeftButtonDown="MyHandler" PreviewMouseWheel="PreviewMouseWheelHandler" PreviewMouseLeftButtonDown="Window_PreviewMouseLeftButtonDown">
+    <Grid MouseLeftButtonDown="MyHandler" PreviewMouseWheel="PreviewMouseWheelHandler" PreviewMouseLeftButtonDown="Window_PreviewMouseLeftButtonDown">
+        <Ellipse Name="Ellipse" Fill="Black" Margin="128,42,120,44" MouseLeftButtonDown="MyHandler" PreviewMouseWheel="PreviewMouseWheelHandler" PreviewMouseLeftButtonDown="Window_PreviewMouseLeftButtonDown"/>
+        <Rectangle Name="Rectangle" Fill="Blue" Margin="260,12,42,154" MouseLeftButtonDown="MyHandler" PreviewMouseWheel="PreviewMouseWheelHandler" PreviewMouseLeftButtonDown="Window_PreviewMouseLeftButtonDown"/>
+    </Grid>
+</Window>

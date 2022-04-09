@@ -1,0 +1,17 @@
+C:\Users\Alexander Kröner\Documents\Visual Studio 2013\Projects\DataBinding\DataBindingGaps\obj\Debug\DataBindingGaps.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Kröner\Documents\Visual Studio 2013\Projects\DataBinding\DataBindingGaps\obj\Debug\App.g.cs
+C:\Users\Alexander Kröner\Documents\Visual Studio 2013\Projects\DataBinding\DataBindingGaps\obj\Debug\DataBindingGaps_MarkupCompile.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\bin\Debug\DataBindingGaps.exe.config
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\bin\Debug\DataBindingGaps.exe
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\bin\Debug\DataBindingGaps.pdb
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\DataBindingGaps.csproj.AssemblyReference.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\MainWindow.baml
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\MainWindow.g.cs
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\App.g.cs
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\DataBindingGaps_MarkupCompile.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\DataBindingGaps.g.resources
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\DataBindingGaps.Properties.Resources.resources
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\DataBindingGaps.csproj.GenerateResource.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\DataBindingGaps.csproj.CoreCompileInputs.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\DataBindingGaps.exe
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB6 (Bindings 2)\Aufgabenblatt_6_Aufgabe_2\obj\Debug\DataBindingGaps.pdb

@@ -1,0 +1,27 @@
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.exe
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.deps.json
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.runtimeconfig.json
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.runtimeconfig.dev.json
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.dll
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\bin\Debug\netcoreapp3.1\Übung1.pdb
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.csproj.AssemblyReference.cache
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.AssemblyInfoInputs.cache
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.AssemblyInfo.cs
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.csproj.CoreCompileInputs.cache
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.dll
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.pdb
+D:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1\Übung1\obj\Debug\netcoreapp3.1\Übung1.genruntimeconfig.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\bin\Debug\netcoreapp3.1\Übung1.exe
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\bin\Debug\netcoreapp3.1\Übung1.deps.json
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\bin\Debug\netcoreapp3.1\Übung1.runtimeconfig.json
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\bin\Debug\netcoreapp3.1\Übung1.runtimeconfig.dev.json
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\bin\Debug\netcoreapp3.1\Übung1.dll
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\bin\Debug\netcoreapp3.1\Übung1.pdb
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\obj\Debug\netcoreapp3.1\Übung1.csproj.AssemblyReference.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\obj\Debug\netcoreapp3.1\Übung1.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\obj\Debug\netcoreapp3.1\Übung1.AssemblyInfoInputs.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\obj\Debug\netcoreapp3.1\Übung1.AssemblyInfo.cs
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\obj\Debug\netcoreapp3.1\Übung1.csproj.CoreCompileInputs.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\obj\Debug\netcoreapp3.1\Übung1.dll
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\obj\Debug\netcoreapp3.1\Übung1.pdb
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\Übung1 (Wiederholung)\Übung1\obj\Debug\netcoreapp3.1\Übung1.genruntimeconfig.cache

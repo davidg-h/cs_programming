@@ -1,0 +1,5 @@
+﻿• Warum können sowohl in C# als auch in VisualBasic WPF-Programme erstellt werden?
+Arbeitet auf/mit der gleichen Schnittstelle
+
+• Welche Dateien finden Sie vor?
+MainWindow.xaml, MainWindow.xaml.cs

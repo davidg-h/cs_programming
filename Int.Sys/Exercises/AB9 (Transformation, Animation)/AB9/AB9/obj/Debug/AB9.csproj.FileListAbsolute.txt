@@ -1,0 +1,15 @@
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\bin\Debug\AB9.exe.config
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\bin\Debug\AB9.exe
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\bin\Debug\AB9.pdb
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\AB9.csproj.AssemblyReference.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\MainWindow.g.cs
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\App.g.cs
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\AB9_MarkupCompile.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\AB9_MarkupCompile.lref
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\MainWindow.baml
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\AB9.g.resources
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\AB9.Properties.Resources.resources
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\AB9.csproj.GenerateResource.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\AB9.csproj.CoreCompileInputs.cache
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\AB9.exe
+E:\1.Schule TH Synchro\Min Semester 3\Int.Systeme\AB9 (Transformation, Animation)\AB9\AB9\obj\Debug\AB9.pdb
