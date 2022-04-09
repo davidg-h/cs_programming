@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Übung3 (Zylinder)/1.0.0": {
+        "runtime": {
+          "Übung3 (Zylinder).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Übung3 (Zylinder)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

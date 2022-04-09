@@ -1,0 +1,67 @@
+﻿<Window x:Class="FlightSim.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="600"
+    Background="Gray">
+    <Grid>
+        <Viewport3D Name="viewport3D">
+            <Viewport3D.Camera>
+                <!--restartPosition overrides Position--> 
+                <!--<PerspectiveCamera x:Name="perspectiveCamera" 
+                    LookDirection="0,0,-1" 
+                    FieldOfView="45" NearPlaneDistance="8" />-->
+                <MatrixCamera x:Name="matrixCamera" />
+            </Viewport3D.Camera>
+            <Viewport3D.Children>
+                <ModelUIElement3D>
+                    <ModelUIElement3D.Model>
+                        <Model3DGroup>
+                            <DirectionalLight Direction="1,-1,0"/>
+                            <GeometryModel3D>
+                                <GeometryModel3D.Transform>
+                                    <Transform3DGroup>
+                                        <TranslateTransform3D OffsetX="-5000" OffsetZ="+5000"/>
+                                        <!-- scale to exaggerate -->
+                                        <ScaleTransform3D ScaleY="3"/>
+                                    </Transform3DGroup>
+                                </GeometryModel3D.Transform>
+                                <GeometryModel3D.Material>
+                                    <DiffuseMaterial x:Name="diffuseMaterial"/>
+                                </GeometryModel3D.Material>
+                                <GeometryModel3D.BackMaterial>
+                                    <MaterialGroup>
+                                        <DiffuseMaterial Brush="Black" />
+                                        <EmissiveMaterial Brush="Red" />
+                                    </MaterialGroup>
+                                </GeometryModel3D.BackMaterial>
+                                <GeometryModel3D.Geometry>
+                                    <MeshGeometry3D x:Name="mesh" />
+                                </GeometryModel3D.Geometry>
+                            </GeometryModel3D>
+                        </Model3DGroup>
+                    </ModelUIElement3D.Model>
+                </ModelUIElement3D>
+            </Viewport3D.Children>
+        </Viewport3D>
+        <DockPanel LastChildFill="False">
+            <ToolBar DockPanel.Dock="Top" Background="Transparent">
+                <Button Content="Load Heightfield..." Click="Button_Load_Heightfield"/>
+                <Button Content="Load Texture..." Click="Button_Load_Texture"/>
+                <Button Content="Restart" Click="Button_Restart"/>
+            </ToolBar>
+            <TextBlock DockPanel.Dock="Top" Text="Load a tile and a matching texture. Use mouse with left button down to rotate. Use W key to fly."/>
+            <StatusBar DockPanel.Dock="Bottom" Background="Transparent">
+                <TextBlock Text="Speed: " />
+                <TextBlock Name="Speed" Text="(speed)" />
+                <TextBlock Text="Altitude: " />
+                <TextBlock Name="Altitude" Text="(altitude)" />
+                <TextBlock Text="Longitude: " />
+                <TextBlock Name="Longitude" Text="(longitude)" />
+                <TextBlock Text="Latitude: " />
+                <TextBlock Name="Latitude" Text="(latitude)" />
+                <TextBlock Text="Framerate: " />
+                <TextBlock Name="Framerate" Text="(framerate)" />
+            </StatusBar>
+        </DockPanel>
+    </Grid>
+</Window>

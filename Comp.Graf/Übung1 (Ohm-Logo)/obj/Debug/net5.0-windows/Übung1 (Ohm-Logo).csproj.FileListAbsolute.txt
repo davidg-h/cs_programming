@@ -1,0 +1,28 @@
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).csproj.AssemblyReference.cache
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\App.g.cs
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo)_MarkupCompile.cache
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\bin\Debug\net5.0-windows\Übung1 (Ohm-Logo).exe
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\bin\Debug\net5.0-windows\Übung1 (Ohm-Logo).deps.json
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\bin\Debug\net5.0-windows\Übung1 (Ohm-Logo).runtimeconfig.json
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\bin\Debug\net5.0-windows\Übung1 (Ohm-Logo).runtimeconfig.dev.json
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\bin\Debug\net5.0-windows\Übung1 (Ohm-Logo).dll
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\bin\Debug\net5.0-windows\ref\Übung1 (Ohm-Logo).dll
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\bin\Debug\net5.0-windows\Übung1 (Ohm-Logo).pdb
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\MainWindow.g.cs
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo)_MarkupCompile.lref
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\MainWindow.baml
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).g.resources
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).GeneratedMSBuildEditorConfig.editorconfig
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).AssemblyInfoInputs.cache
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).AssemblyInfo.cs
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).csproj.CoreCompileInputs.cache
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).dll
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\ref\Übung1 (Ohm-Logo).dll
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).pdb
+Z:\Computergrafik Übungen\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).genruntimeconfig.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo)_MarkupCompile.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).dll
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\ref\Übung1 (Ohm-Logo).dll
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung1 (Ohm-Logo)\obj\Debug\net5.0-windows\Übung1 (Ohm-Logo).pdb

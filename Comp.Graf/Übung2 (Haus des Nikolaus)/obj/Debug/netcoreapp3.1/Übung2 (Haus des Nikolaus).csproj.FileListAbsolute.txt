@@ -1,0 +1,37 @@
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).exe
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).deps.json
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).runtimeconfig.json
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).runtimeconfig.dev.json
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).dll
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus)_MarkupCompile.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).g.resources
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).AssemblyInfo.cs
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).dll
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).pdb
+C:\Users\David\Desktop\Schule TH\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).genruntimeconfig.cache
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).exe
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).deps.json
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).runtimeconfig.json
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).runtimeconfig.dev.json
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).dll
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\bin\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).pdb
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).csproj.AssemblyReference.cache
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\App.g.cs
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus)_MarkupCompile.cache
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).g.resources
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).AssemblyInfoInputs.cache
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).AssemblyInfo.cs
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).csproj.CoreCompileInputs.cache
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).dll
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).pdb
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung2 (Haus des Nikolaus)\obj\Debug\netcoreapp3.1\Übung2 (Haus des Nikolaus).genruntimeconfig.cache

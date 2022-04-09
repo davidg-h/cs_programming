@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Holzwuerfel.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="D:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung11 %28Holzwürfel%29\Holzwuerfel_Aufgabe\MainWindow.xaml" Link="MainWindow.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Holzwuerfel.jpg" />
+  </ItemGroup>
+
+</Project>

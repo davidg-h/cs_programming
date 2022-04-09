@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Diffuse.png" />
+    <None Remove="MoonDiffuse.jpg" />
+    <None Remove="ReflectionMask.png" />
+    <None Remove="Sun2.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Diffuse.png" />
+    <Resource Include="MoonDiffuse.jpg" />
+    <Resource Include="ReflectionMask.png" />
+    <Resource Include="Sun2.jpg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Übung1 (Ohm-Logo)/1.0.0": {
+        "runtime": {
+          "Übung1 (Ohm-Logo).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Übung1 (Ohm-Logo)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

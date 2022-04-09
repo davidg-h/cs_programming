@@ -1,0 +1,67 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="circle0.png" />
+    <None Remove="circle1.png" />
+    <None Remove="circle2.png" />
+    <None Remove="circle3.png" />
+    <None Remove="CloudsOpacity.png" />
+    <None Remove="Decal_negative_x.png" />
+    <None Remove="Decal_negative_y.png" />
+    <None Remove="Decal_negative_z.png" />
+    <None Remove="Decal_positive_x.png" />
+    <None Remove="Decal_positive_y.png" />
+    <None Remove="Decal_positive_z.png" />
+    <None Remove="Diffuse.png" />
+    <None Remove="dot.png" />
+    <None Remove="MoonDiffuse.jpg" />
+    <None Remove="Night.png" />
+    <None Remove="NormalMap.png" />
+    <None Remove="ReflectionMask.png" />
+    <None Remove="star.png" />
+    <None Remove="starmap_g16k.jpg" />
+    <None Remove="Sun2.jpg" />
+    <None Remove="TychoSkymap_negative_x.jpg" />
+    <None Remove="TychoSkymap_negative_y.jpg" />
+    <None Remove="TychoSkymap_negative_z.jpg" />
+    <None Remove="TychoSkymap_positive_x.jpg" />
+    <None Remove="TychoSkymap_positive_y.jpg" />
+    <None Remove="TychoSkymap_positive_z.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="circle0.png" />
+    <Resource Include="circle1.png" />
+    <Resource Include="circle2.png" />
+    <Resource Include="circle3.png" />
+    <Resource Include="CloudsOpacity.png" />
+    <Resource Include="Decal_negative_x.png" />
+    <Resource Include="Decal_negative_y.png" />
+    <Resource Include="Decal_negative_z.png" />
+    <Resource Include="Decal_positive_x.png" />
+    <Resource Include="Decal_positive_y.png" />
+    <Resource Include="Decal_positive_z.png" />
+    <Resource Include="Diffuse.png" />
+    <Resource Include="dot.png" />
+    <Resource Include="MoonDiffuse.jpg" />
+    <Resource Include="Night.png" />
+    <Resource Include="NormalMap.png" />
+    <Resource Include="ReflectionMask.png" />
+    <Resource Include="star.png" />
+    <Resource Include="starmap_g16k.jpg" />
+    <Resource Include="Sun2.jpg" />
+    <Resource Include="TychoSkymap_negative_x.jpg" />
+    <Resource Include="TychoSkymap_negative_y.jpg" />
+    <Resource Include="TychoSkymap_negative_z.jpg" />
+    <Resource Include="TychoSkymap_positive_x.jpg" />
+    <Resource Include="TychoSkymap_positive_y.jpg" />
+    <Resource Include="TychoSkymap_positive_z.jpg" />
+  </ItemGroup>
+
+</Project>

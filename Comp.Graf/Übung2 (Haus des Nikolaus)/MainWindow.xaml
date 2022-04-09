@@ -1,0 +1,82 @@
+﻿<Window x:Class="Übung2__Haus_des_Nikolaus_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="500" Background="Green">
+    <Grid>
+        <Viewport3D>
+            <Viewport3D.Camera>
+                <PerspectiveCamera Position="10,7,10" LookDirection="-2,-1,-2">
+                    <PerspectiveCamera.Transform>
+                        <RotateTransform3D>
+                            <RotateTransform3D.Rotation>
+                                <!-- Rotation angle is updated from slider -->
+                                <AxisAngleRotation3D Axis="0,1,0"
+                                    Angle="{Binding ElementName=rotSlider,
+                                        Path=Value}"/>
+                            </RotateTransform3D.Rotation>
+                        </RotateTransform3D>
+                    </PerspectiveCamera.Transform>
+                </PerspectiveCamera>
+            </Viewport3D.Camera>
+            <!-- TODO... -->
+            <ModelUIElement3D>
+                <ModelUIElement3D.Model>
+                    <Model3DGroup>
+                        <Model3DGroup.Transform>
+                            <TranslateTransform3D OffsetX="-1" OffsetZ="-1"/>
+                        </Model3DGroup.Transform>
+                        <AmbientLight/>
+                        <GeometryModel3D>
+                            <GeometryModel3D.Material>
+                                <DiffuseMaterial Brush="Red"/>
+                            </GeometryModel3D.Material>
+                            <GeometryModel3D.BackMaterial>
+                                <DiffuseMaterial Brush="Blue"/>
+                            </GeometryModel3D.BackMaterial>
+                            <GeometryModel3D.Geometry>
+                                <MeshGeometry3D
+                                    Positions="2,2,2 2,2,0 0,2,0 0,2,2
+                                               1,3,2 1,3,0"
+                                    TriangleIndices="0,1,5 0,5,4 2,3,4 2,4,5" />
+                            </GeometryModel3D.Geometry>
+                        </GeometryModel3D>
+                        <GeometryModel3D>
+                            <GeometryModel3D.Material>
+                                <DiffuseMaterial Brush="White"/>
+                            </GeometryModel3D.Material>
+                            <GeometryModel3D.BackMaterial>
+                                <DiffuseMaterial Brush="Blue"/>
+                            </GeometryModel3D.BackMaterial>
+                            <GeometryModel3D.Geometry>
+                                <MeshGeometry3D
+                                    Positions=
+                                    "0,0,0 0,0,2 2,0,0 2,0,2
+                                     0,2,0 2,2,0 2,2,2 0,2,2
+                                     1,3,2 1,3,0"
+                                   
+                                    TriangleIndices="0,2,1 1,2,3 2,0,5 0,4,5 3,2,6 2,5,6 0,1,7 0,7,4
+                                                     1,3,6 1,6,7 7,6,8 4,9,5"/>
+                            </GeometryModel3D.Geometry>
+                        </GeometryModel3D>
+                        <GeometryModel3D>
+                            <GeometryModel3D.Material>
+                                <DiffuseMaterial Brush="Black"/>
+                            </GeometryModel3D.Material>
+                            <GeometryModel3D.BackMaterial>
+                                <DiffuseMaterial Brush="Blue"/>
+                            </GeometryModel3D.BackMaterial>
+                            <GeometryModel3D.Geometry>
+                                <MeshGeometry3D
+                                    Positions="1,0,2.001 1.5,0,2.001 1,1,2.001 1.5,1,2.001"
+                                    TriangleIndices="0,1,2 1,3,2"/>
+                            </GeometryModel3D.Geometry>
+                        </GeometryModel3D>
+                    </Model3DGroup>
+                </ModelUIElement3D.Model>
+            </ModelUIElement3D>
+        </Viewport3D>
+        <!-- Camera rotation slider -->
+        <Slider Name="rotSlider" VerticalAlignment="Bottom" Orientation="Horizontal"
+            Minimum="-180" Maximum="180" Value="0" />
+    </Grid>
+</Window>

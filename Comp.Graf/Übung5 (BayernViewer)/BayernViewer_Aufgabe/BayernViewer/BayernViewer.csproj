@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BayernViewer</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="64_549t250dop.png" />
+    <None Remove="ICSharpCode.SharpZipLib.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="64_549t250dop.png" />
+  </ItemGroup>
+
+</Project>

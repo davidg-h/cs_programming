@@ -1,0 +1,42 @@
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).exe
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).deps.json
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).runtimeconfig.json
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).runtimeconfig.dev.json
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).dll
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\ref\Übung3 (Zylinder).dll
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).pdb
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).csproj.AssemblyReference.cache
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\MainWindow.baml
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\MainWindow.g.cs
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\App.g.cs
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder)_MarkupCompile.cache
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).g.resources
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).GeneratedMSBuildEditorConfig.editorconfig
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).AssemblyInfoInputs.cache
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).AssemblyInfo.cs
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).csproj.CoreCompileInputs.cache
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).dll
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\ref\Übung3 (Zylinder).dll
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).pdb
+I:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).genruntimeconfig.cache
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).exe
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).deps.json
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).runtimeconfig.json
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).runtimeconfig.dev.json
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).dll
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\ref\Übung3 (Zylinder).dll
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\bin\Debug\net5.0-windows\Übung3 (Zylinder).pdb
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).csproj.AssemblyReference.cache
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\MainWindow.baml
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\App.g.cs
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder)_MarkupCompile.cache
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).g.resources
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).AssemblyInfoInputs.cache
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).AssemblyInfo.cs
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).csproj.CoreCompileInputs.cache
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).dll
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\ref\Übung3 (Zylinder).dll
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).pdb
+E:\1.Schule TH Synchro\Min Semester 3\Computer Grafik\Übung3 (Zylinder)\Übung3 (Zylinder)\obj\Debug\net5.0-windows\Übung3 (Zylinder).genruntimeconfig.cache

@@ -1,0 +1,26 @@
+﻿Aufgabe 1: (Normal aussehen)
+- Supply correct normal vector for top or bottom disk circumference
+0 , -+1, 0
+- Add correct normal vector for top or bottom disk center point
+0, -+1, 0
+- Supply correct normal vector of the body to be rotated about the Y axis
+0, 0, 1
+0, 0, 1
+
+Aufgabe 2: (aufgebläht)
+- Supply correct normal vector for top or bottom disk circumference
+0 , -+1, 1
+- Add correct normal vector for top or bottom disk center point
+0, -+1, 0
+- Supply correct normal vector of the body to be rotated about the Y axis
+0, -1, 1
+0, 1, 1
+
+Aufgabe 3: (innen gewölbt)
+- Supply correct normal vector for top or bottom disk circumference
+0 , -+1, -1 (oben/unten vertauscht)
+- Add correct normal vector for top or bottom disk center point
+0, +-1, 0 
+- Supply correct normal vector of the body to be rotated about the Y axis
+0, 1, -1
+0, -1, -1
