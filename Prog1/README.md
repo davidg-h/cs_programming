@@ -1,1 +1,1 @@
-## Assignments and exercises from "Programmieren 1" (WS 20/21)
+# Assignments and exercises from "Programmieren 1"
