@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Toymodels Online-Shop</title>
+    <link rel='stylesheet' href='http://localhost/toymodels/css/toymodels.css' type='text/css'>
+    <script src="./js/toymodels.js" defer></script>
+  </head>
+  <body>
+   <header> <!-- Header mit Logo, Titel, Searchbar & Login  -->
+    <section id="logosection">
+     <img src="http://localhost/toymodels/img/toymodels.png">
+     <h1>Toy-Models<br>Online-Shop</h1>
+    </section>  
+    <section id="searchbarsection">
+      <form>
+        <input id="searchbar" name="searchbar">
+        <button type="submit" id="searchbutton"><img src="http://localhost/toymodels/img/search.png"></button>
+      </form>
+    </section>
+    <section id="usersection">
+      <button class='cartbutton'>
+        <img src='http://localhost/toymodels/img/gift.png'>
+        Warenkorb 
+      </button>
+      <div id="userlogin">
+        <button class="cartbutton"><img src="http://localhost/toymodels/img/ghost.png">Login</button>
+        <div class="loginbox">
+          <form>
+            <label for="username">Benutzername</label>
+            <input id="username" name="username">
+            <label for="password">Password</label>
+            <input id="password" name="password" type="password">
+            <button type="submit">Einloggen</button>
+          </form>
+          <p id="register"><span style="color:blue; text-decoration: underline;cursor: pointer;" onclick="createRegistrationForm();">Keine Zugangsdaten? Hier registrieren!</span></p>
+        </div>
+      </div>
+    </section>
+    </header>
+
+  <main>
+  </main>
+  
+  <footer>
+  <p>Copyright &copy; Toy-Models GmbH</p>
+  </footer>
+</body>
+</html>

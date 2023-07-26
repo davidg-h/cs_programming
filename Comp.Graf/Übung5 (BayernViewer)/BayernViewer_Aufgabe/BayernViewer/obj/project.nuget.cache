@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqLW+Vwjz03fmwib7dxo+5GFUHkOjDgTdfTedZ0wB1NQq0zFCsxljcC576U5U84A5dtdqwUOQy3OpiN4DWAqSQ==",
+  "success": true,
+  "projectFilePath": "I:\\1.Schule TH Synchro\\Min Semester 3\\Computer Grafik\\Übung5 (BayernViewer)\\BayernViewer_Aufgabe\\BayernViewer\\BayernViewer.csproj",
+  "expectedPackageFiles": [
+    "z:\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

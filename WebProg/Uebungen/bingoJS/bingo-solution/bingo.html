@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BINGO! - Javascript Uebung</title>
+
+    <style>
+      * {
+        text-align: center;
+      }
+      #field {
+        margin-top: 2em;
+        position: relative;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .tileline {
+        margin-top: 1em;
+      }
+
+      #field .tile {
+        display: inline-block;
+        position: relative;
+        border: 1px solid black;
+        border-radius: 1em;
+        background-color: azure;
+        width: 128px;
+        height: 128px;
+        margin-left: 0.5em;
+      }
+
+      #field .tile[data-active="yes"] {
+        background-color: yellow;
+      }
+    </style>
+
+    <script type="module" src="./bingo_controller.js"></script>
+  </head>
+  <body>
+    <main id="bingo"></main>
+  </body>
+</html>

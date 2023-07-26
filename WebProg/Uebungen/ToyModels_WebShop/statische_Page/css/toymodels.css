@@ -1,0 +1,238 @@
+:root {
+  --sbsect-border: 1px solid lightgray;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 1em;
+  padding: 1em;
+}
+
+/* The header section */
+header {
+  margin: 4em;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  gap: 5%;
+}
+
+#logosection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 1em;
+}
+
+#logosection img {
+  width: 128px;
+  height: 96px;
+  margin-right: 1.5em;
+}
+
+#logosection img:hover {
+  width: 128px;
+  height: 96px;
+  margin-right: 1.5em;
+  transform: rotate(180deg);
+}
+
+#searchbarsection {
+  margin: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#searchbarsection form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#searchbar {
+  width: 350px;
+  height: 45px;
+  border: none;
+  border-bottom: var(--sbsect-border);
+  border-top: var(--sbsect-border);
+  border-left: var(--sbsect-border);
+  font-size: large;
+  font-weight: lighter;
+}
+
+#searchbutton {
+  border: none;
+}
+#searchbutton img {
+  width: 45px;
+  height: 45px;
+}
+
+#usersection {
+  margin: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cartbutton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 1em;
+  margin-left: 1em;
+  width: 160px;
+}
+
+.cartbutton img {
+  margin-right: 1em;
+  width: 45px;
+  height: 45px;
+}
+
+/* Main */
+main {
+  width: 85%;
+  margin: auto;
+}
+
+main section {
+  text-align: left;
+  margin-left: 5%;
+}
+
+/* Product section & table */
+#productsection {
+  margin: 4em;
+}
+
+#productsection table {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+#productsection th {
+  padding-bottom: 0.5em;
+}
+
+#productsection td {
+  border: 1px solid lightgray;
+}
+
+#productsection td button {
+  display: inline-block;
+  border: none;
+  width: 100%;
+  height: 50px;
+}
+
+/* Footer */
+footer {
+  margin: 4em;
+  padding: 4em;
+}
+
+#userlogin {
+  position: relative;
+  display: inline-block;
+}
+
+.loginbox {
+  display: none;
+  position: absolute;
+  width: 150px;
+  z-index: 1;
+  border: 1px solid grey;
+  border-bottom-left-radius: 1em;
+  border-bottom-right-radius: 1em;
+  background-color: lightgray;
+  border-top: none;
+  height: 175px;
+  margin-left: 1em;
+  margin-top: 0em;
+}
+
+.loginbox p {
+  font-size: 0.7em;
+}
+
+#userlogin:hover .loginbox {
+  display: block;
+}
+
+.loginbox input {
+  height: 25px;
+}
+
+.loginbox button {
+  padding: 0.5em;
+  margin-bottom: 0.5em;
+  margin-top: 0.25em;
+}
+
+#toymodels-form {
+  width: 280px;
+  margin: 0 auto;
+  background-color: #fcfcfc;
+  padding: 20px 50px 40px;
+  box-shadow: 1px 4px 10px 1px #aaa;
+  font-family: sans-serif;
+}
+
+#toymodels-form * {
+  box-sizing: border-box;
+}
+
+#toymodels-form h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#toymodels-form input {
+  margin-bottom: 15px;
+}
+
+#toymodels-form input {
+  display: block;
+  height: 32px;
+  padding: 6px 16px;
+  width: 100%;
+  border: none;
+  background-color: #f3f3f3;
+}
+
+#toymodels-form label {
+  color: #777;
+  font-size: 0.8em;
+}
+
+#toymodels-form button[type="submit"] {
+  display: block;
+  margin: 20px auto 0;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  color: black;
+  font-weight: 700;
+  box-shadow: 1px 4px 10px 1px #aaa;
+  background-color: #c5cacf;
+}
+
+#toymodels-form button[type="submit"]:active {
+  box-shadow: none;
+  transform: translateY(4px);
+}

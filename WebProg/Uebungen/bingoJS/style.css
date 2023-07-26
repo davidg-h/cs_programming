@@ -1,0 +1,16 @@
+* {
+  text-align: center;
+  align-items: center;
+  margin: auto;
+  padding-bottom: 50px;
+  padding-top: 1%;
+}
+
+table {
+  border-spacing: 10px;
+}
+
+td {
+  border: 1px solid black;
+  padding: 3em;
+}

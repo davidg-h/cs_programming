@@ -1,0 +1,1 @@
+# Collection of exercises in the course Databases

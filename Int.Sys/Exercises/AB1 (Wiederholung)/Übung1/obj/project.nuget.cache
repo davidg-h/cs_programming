@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CPkdvZea3R8yMFdccu9v0OuvNOT4vC28qtCsXeKksCAnbhsVX+QKgv5H7ltBWdjunQhsBGRxQqoajJ7bBdxl1w==",
+  "success": true,
+  "projectFilePath": "D:\\1.Schule TH Synchro\\Min Semester 3\\Int.Systeme\\Übung1 (Wiederholung)\\Übung1\\Übung1.csproj",
+  "expectedPackageFiles": [
+    "z:\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

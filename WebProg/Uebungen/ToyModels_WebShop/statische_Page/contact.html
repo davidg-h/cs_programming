@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Toy Models Shop</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+  </head>
+
+  <body>
+    <header>
+      <img id="logoimg" src="img/toymodels.png" />
+    </header>
+    <nav>
+      <ul>
+        <li><a href="index.php">Hauptseite</a></li>
+        <li><a href="contact.html">Kontakt</a></li>
+        <li><a href="about.html">&Uuml;ber</a></li>
+      </ul>
+    </nav>
+    <main>
+      <p>Senden Sie uns gerne Ihre Nachricht:</p>
+
+      <form
+        action="http://webprog.informatik.fh-nuernberg.de/praktikum/a1/contact.php"
+        method="POST"
+      >
+        <p>
+          <label>Name: <input type="text" name="name" required /></label>
+        </p>
+        <p>
+          <label>Vorname: <input type="text" name="Vorname" required /></label>
+        </p>
+        <p>
+          <label>Mail: <input type="email" name="mail" required /></label>
+        </p>
+        <p><textarea name="message" cols="40" rows="20" required></textarea></p>
+        <p><input type="submit" /></p>
+        <p><input type="reset" /></p>
+        <input name="studentid" hidden value="nguyenda" />
+      </form>
+    </main>
+    <footer>
+      <p>Copyright &copy; Toy-Models GmbH</p>
+    </footer>
+  </body>
+</html>
