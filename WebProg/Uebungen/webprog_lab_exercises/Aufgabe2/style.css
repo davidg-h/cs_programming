@@ -1,0 +1,120 @@
+* {
+  padding: 0%;
+  border: 0;
+  margin: 0%;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+html {
+  font-family: Arial, Verdana, Roboto, sans-serif;
+}
+
+header,
+footer,
+aside {
+  border-radius: 1em;
+  padding: 1em;
+}
+
+header {
+  background-color: #ff0000;
+  color: white;
+  text-align: center;
+  margin: 1em;
+  height: 5em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  background-color: rgb(98, 123, 148);
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 5em;
+}
+
+footer p {
+  margin: 1em;
+}
+
+.main_aside_container {
+  position: relative;
+  padding-right: 16em;
+}
+
+aside {
+  background-color: green;
+  color: #ddf;
+  width: 13em;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  right: 1em;
+}
+
+aside p,
+aside h4 {
+  margin-bottom: 0.5em;
+}
+
+article {
+  column-count: auto;
+  column-width: 15em;
+  margin: 1em;
+  background-color: #c0bebe;
+  border-radius: 1em;
+  padding: 1em;
+  border: 1px solid #777777;
+}
+
+nav ul {
+  margin: 1em;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+nav ul li a {
+  display: inline-block;
+  background-color: #040790;
+  color: white;
+  border-radius: 1em;
+  padding: 1.5em;
+  width: 14em;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: lightslategray;
+}
+
+nav ul li a:hover {
+  background-color: green;
+}
+
+a[target="_blank"]::before {
+  content: "\2794";
+}
+
+.zur_th {
+  background: url(img/logo_th_nuernberg.png);
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  background-position: 100% 0;
+  /* transform: rotate(45deg) scale(50%, 50%); */
+}
+
+.zur_th:hover {
+  background-position: 0 0;
+}

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Ein einfacher Rechner - Version 2.0 ;-)</title>
+    <style>
+      body {
+        text-align: center;
+        font-family: "Source Sans Pro", sans-serif;
+      }
+
+      .btn {
+        background: #0033ee;
+        border-radius: 10px;
+        font-family: Times;
+        color: #ffffff;
+        font-size: 1em;
+        text-decoration: none;
+        width: 100px;
+        height: 35px;
+        vertical-align: middle;
+        margin-left: 10px;
+        margin-bottom: 8px;
+      }
+
+      input[type="text"] {
+        border-radius: 5px;
+        height: 30px;
+        width: 80px;
+        background-color: #eeeeee;
+        font-size: 20px;
+      }
+
+      select {
+        width: 60px;
+        height: 30px;
+        border-radius: 5px;
+        background-color: lightgrey;
+        font-size: 20px;
+      }
+    </style>
+    <script>
+      /* Ihr Script-Code, also die Implementierung der Funktion sendRequest() kommt hier rein! */
+
+      function sendRequest() {
+        let urlString = new URL(
+          "http://localhost:8080/Uebungen/webprog_lab_projects/Aufgabe6/calculator_service.php"
+        );
+        let va = document.getElementsByName("va")[0].value;
+        let vb = document.getElementsByName("vb")[0].value;
+        let op = document.getElementsByName("op")[0].value;
+
+        urlString.searchParams.append("va", va);
+        urlString.searchParams.append("vb", vb);
+        urlString.searchParams.append("op", op);
+
+        fetch(urlString)
+          .then(function (response) {
+            if (response.ok) {
+              return response.json();
+            }
+          })
+          .then(function (jsonObj) {
+            let result = document.querySelector("#result");
+            result.hidden = false;
+            if (!jsonObj.error) {
+              result.setAttribute("style", "color: black");
+              result.textContent =
+                "Ergebnis: " + va + op + vb + " = " + jsonObj.result;
+              console.log(jsonObj.message);
+            } else {
+              result.textContent = jsonObj.message;
+              result.setAttribute("style", "color: red");
+            }
+          })
+          .catch((e) => console.log(e));
+      }
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Einfacher Rechner</h1>
+      <h2>Was möchten Sie berechnen?</h2>
+      <form id="calculator_form">
+        <input type="text" name="va" />
+        <select name="op">
+          <option value="+">+</option>
+          <option value="-">-</option>
+          <option value="*">*</option>
+          <option value="/">/</option>
+        </select>
+        <input type="text" name="vb" />
+        <button type="button" class="btn" onclick="sendRequest();">
+          Berechnen
+        </button>
+      </form>
+      <h2 id="result" hidden></h2>
+    </main>
+  </body>
+</html>

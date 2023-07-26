@@ -1,0 +1,130 @@
+
+body {
+   text-align: center;
+   padding-bottom: 2em;
+   padding-top: 2em;
+}
+
+/* Header and navigation bar */
+header {
+  text-align: left;
+}
+
+header img {
+  margin-left: 10%;
+  width: 200px;
+}
+
+header section p {
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+header section h1 {
+  font-size: 2em;
+  text-decoration: underline;
+}
+
+.hdrbox {
+  float: left;
+  margin-right: 2%;
+  padding: 20px;
+  padding-bottom: 35px;
+  box-sizing: border-box;
+}
+
+nav {
+  float:right;
+  margin-top: 50px;
+  margin-right: 10%;
+}
+
+nav ul {
+  list-style-type: none;
+  width: 250px;
+  text-align: center;
+}
+
+nav ul li {
+  background-color: #ddd;
+  padding: 1em 1.5em;
+}
+
+nav ul li:hover {
+  background-color: #aaa;
+}
+
+i {
+  margin-right: 5px;
+  font-size: 1.2em;
+}
+
+a {
+  color: #666;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+main {
+  clear: both;
+  overflow: auto;
+}
+
+/* Product table */
+table {
+   width: 80%;
+   margin-left: 10%;
+   border-collapse: collapse;
+}
+
+th {
+   background-color: white;
+}
+
+th, td {
+   padding: 10px;
+}
+
+td {
+  border: 1px solid grey;
+}
+
+thead {
+  border-bottom: 1px solid grey;
+}
+
+table tr:nth-child(odd) {
+   background-color: #fff;
+}
+
+table tr:nth-child(even) {
+   background-color: #eee;
+}
+
+td:nth-child(2), td:nth-child(7) {
+  width: 200px;
+}
+
+td:nth-child(3) {
+  text-align: left;
+}
+
+td:nth-child(6) {
+  width: 120px;
+  font-weight: bold;
+}
+
+button {
+  background-color: #ddd;
+  color: #666;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* Media queries */
+@media screen and (max-width: 1450px) {
+  header section {
+    display: none;
+  }
+}

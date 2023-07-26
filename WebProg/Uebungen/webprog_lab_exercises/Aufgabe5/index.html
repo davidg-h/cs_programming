@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aufgabe 5 - Erstellen Sie die Dateien script.js und word.js</title>
+
+    <link rel="stylesheet" type="text/css" href="css/style.min.css" />
+
+    <script type="module">
+      import { Word } from "./js/word.js"; /* Module erzeugen einen eigenen Gültigkeitsbereich. */
+      window.Word =
+        Word; /* Hier erzeugen wir "Word" als Eigenschaft der "window" Instanz, damit es von script.js genutzt werden kann. */
+    </script>
+
+    <script src="js/script.js"></script>
+  </head>
+
+  <!-- Wenn der <body> der Webseite geladen ist, wird die Funktion "initAssignment()" aufgerufen! -->
+  <body onload="initAssignment()">
+    <header>
+      <h1>DOM Spielplatz</h1>
+      <h4>Das ist wirklich eine sehr einfache Seite...</h4>
+      <h6>
+        ...die Ihnen vielleicht auch etwas bekannt vorkommt. Aber das ist nur
+        Zufall, wirklich!
+      </h6>
+    </header>
+
+    <div class="main_aside_container">
+      <main>
+        <article id="wortberge">
+          <h2>Wortberge</h2>
+          <p>
+            Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und
+            Konsonantien leben die
+            <a href="http://www.blindtextgenerator.de/">Blindtexte</a>.
+            Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik,
+            eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt
+            durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist
+            ein paradiesmatisches Land, in dem einem gebratene Satzteile in den
+            Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden
+            die Blindtexte beherrscht – ein geradezu unorthographisches Leben.
+            Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war
+            <a href="https://de.wikipedia.org/wiki/Lorem_ipsum">Lorem Ipsum</a>,
+            hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr
+            davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen
+            und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht
+            beirren. Es packte seine sieben Versalien, schob sich sein Initial
+            in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel
+            des
+            <a href="http://www.dilbert.com" target="_blank">Kursivgebirges</a>
+            erklommen hatte, warf es einen letzten Blick zurück auf die Skyline
+            seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und
+            die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief
+            ihm eine
+            <a href="https://de.wikipedia.org/wiki/Rhetorische_Frage"
+              >rhetorische Frage</a
+            >
+            über die Wange, dann setzte es seinen Weg fort. Unterwegs traf es
+            eine Copy. Die Copy warnte das Blindtextchen, da, wo sie herkäme
+            wäre sie fort.
+          </p>
+        </article>
+        <article id="kafka">
+          <h2>Kafka</h2>
+          <figure>
+            <img
+              src="https://cdn.pixabay.com/photo/2014/09/26/21/51/float-462874_960_720.jpg"
+              alt="Mann mit Schutzbrille"
+              width="100%"
+            />
+            <figcaption>Symbolbild: Mann mit Schutzbrille</figcaption>
+          </figure>
+          <p>
+            Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas
+            Böses getan hätte, wurde er eines Morgens verhaftet. »Wie ein Hund!«
+            sagte er, es war, als sollte die Scham ihn überleben. Als Gregor
+            Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in
+            seinem Bett zu einem ungeheueren Ungeziefer verwandelt. Und es war
+            ihnen wie eine Bestätigung ihrer neuen Träume und guten Absichten,
+            als am Ziele ihrer Fahrt die Tochter als erste sich erhob und ihren
+            jungen Körper dehnte. »Es ist ein eigentümlicher Apparat«, sagte der
+            Offizier zu dem
+            <a
+              href="http://www.lmgtfy.com/?q=Forschungsreisenden"
+              target="_blank"
+              >Forschungsreisenden</a
+            >
+            und überblickte mit einem gewissermaßen bewundernden Blick den ihm
+            doch wohlbekannten Apparat. Sie hätten noch ins Boot springen
+            können, aber der Reisende hob ein schweres, geknotetes Tau vom
+            Boden, drohte ihnen damit und hielt sie dadurch von dem Sprunge ab.
+            In den letzten Jahrzehnten ist das Interesse an Hungerkünstlern sehr
+            zurückgegangen. Aber sie überwanden sich, umdrängten den Käfig und
+            wollten sich gar nicht fortrühren.Jemand musste Josef K. verleumdet
+            haben, denn ohne dass er etwas Böses getan hätte, wurde er eines
+            Morgens verhaftet. »Wie ein Hund!« sagte er, es war, als sollte die
+            Scham ihn überleben. Als Gregor Samsa eines Morgens aus unruhigen
+            Träumen erwachte, fand er sich wieder.
+          </p>
+        </article>
+      </main>
+
+      <aside>
+        <h4>Ihre eigenen Artikel auf dieser Seite!</h4>
+        <section id="formcontainer">
+          <p>Hier kommt das Formular f&uuml;r neue Artikel hin:</p>
+        </section>
+      </aside>
+    </div>
+
+    <footer>
+      <p>
+        Eigentlich braucht es hier auch keinen Footer, aber er war schon da...
+      </p>
+    </footer>
+  </body>
+</html>
